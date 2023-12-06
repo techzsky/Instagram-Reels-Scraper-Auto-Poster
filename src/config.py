@@ -30,7 +30,7 @@ IS_ENABLED_REELS_SCRAPER = 1
 IS_ENABLED_AUTO_POSTER = 1
 
 # IS POST STORY
-IS_POST_TO_STORY = 1
+IS_POST_TO_STORY = 0
 
 # Fetch LIMIT for scraper script
 FETCH_LIMIT = 10
@@ -42,16 +42,12 @@ POSTING_INTERVAL_IN_MIN = 15  # Every 15 Minutes
 SCRAPER_INTERVAL_IN_MIN = 720  # Every 12 hours
 
 # Instagram Username & Password
-USERNAME = "your_username"
-PASSWORD = "your_password"
+USERNAME = "alyx_warld_69"
+PASSWORD = "Alyx69***"
 
 # Account List for scraping
 ACCOUNTS = [
-    "totalgaming_official",
-    "carryminati",
-    "techno_gamerz",
-    "payalgamingg",
-    "dynamo__gaming"
+    "alyx_warld"
 ]
 
 # like_and_view_counts_disabled
@@ -61,14 +57,14 @@ LIKE_AND_VIEW_COUNTS_DISABLED = 0
 DISABLE_COMMENTS = 0
 
 # HASHTAGS to add while Posting
-HASHTAGS = "#reels #shorts #likes #follow #Reels-AutoPilot"
+HASHTAGS = "#alyxstar #alyx #star #hot #romantic"
 
 #--------------------------------------------------------------------------------------------------#
 # Youtube Configurations                                                                           #
 #--------------------------------------------------------------------------------------------------#
 
 # IS RUN YOUTUBE SCRAPER
-IS_ENABLED_YOUTUBE_SCRAPING = 1
+IS_ENABLED_YOUTUBE_SCRAPING = 0
 
 
 # IS RUN YOUTUBE SCRAPER
